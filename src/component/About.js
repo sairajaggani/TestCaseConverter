@@ -28,7 +28,7 @@ export default function About(props) {
           <h3>Feedback</h3>
           <p>
             Success is all about taking new initiatives. I started developing
-            Text Converter .Of course, if you have any suggestions over new
+            Text Converter as a part of my react course if you have any suggestions over new
             tools that should be added and created that could help benefit, then
             by all means, please get in touch with us and we will be more than
             happy to help you.
