@@ -13,7 +13,7 @@ export default function About(props) {
             mistakenly written all your text in capital or you want to quickly
             align the correct capitalisation structure for your text. Text
             Converter allows you to quickly fix any errors as well as produce an
-            array of outcomes from the tools above.
+            array of outcomes from the tools.
           </p>
         </div>
         <div>
